@@ -3,15 +3,16 @@ layout: post
 title: About
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+**Hello & Welcome to Almanack**
 
-<figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
-  <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
-  </figcaption>
-</figure>
+Our mission is to bring to life the rich narrative of the modern American experience.
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
+We draw upon the deep well of history that has shaped the nation from its inception. From the agrarian societies of its infancy and revolutionary spirit of its youth, through the forge of the Civil War, into the smokestacks of the Industrial Revolution, the opulent Gilded Age to the trenches of the World Wars, from the optimistic surge of the Great Society and the atomic vigor of the mid-20th century, carried into space and the technological advancements that have defined its most recent history, Almanack Magazine aims to capture our modern times and the ongoing saga of a nation continually reinventing itself yet always striving to uphold its founding ideals.
 
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+Our target audience are mature, thoughtful individuals who cherish both the lessons of history and the narratives of the present. They'll find on our site a continuum of the American spirit. Our magazine speaks to those who appreciate the complexities and the contributions of Americana, providing insights that are both retrospective and forward-looking.
+
+Our content is crafted with a reverence for the narrative weight it carries. Each piece is a reflection on the past or an examination of the present or an analysis of the future, always connected by the enduring threads of American values and dreams. We cover arts, culture, business, politics, science, sports, and more, all through a lens that is deeply informed by the historical path we have traveled.
+
+Join us as we explore what it means to be American in both heritage and horizon. At Almanack Magazine, we're not just recounting history; we're interpreting it through the lens of the now, engaging with the myths, the realities, and the aspirations that continue to shape this great nation.
+
+Thank you for visiting.
