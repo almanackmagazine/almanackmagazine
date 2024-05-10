@@ -17,7 +17,7 @@ title: Almanack
 email: mail@almanackmagazine.com
 description: >- # this means to ignore newlines until "baseurl:"
   A digital magazine of Americana. Commentary on current events. Telling the American tale.
-baseurl: "/hitchens" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://almanackmagazine.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: almanackonline
