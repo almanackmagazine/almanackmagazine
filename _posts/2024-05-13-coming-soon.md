@@ -1,5 +1,5 @@
 ---
-title: Coming Soon...
+title: Coming Soon
 author: Craig Walker
 category: literature
 layout: post
