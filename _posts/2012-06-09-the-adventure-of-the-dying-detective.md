@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: draft
 title: "The Adventure of the Dying Detective"
 author: "Arthur Conan Doyle"
 categories: literature
