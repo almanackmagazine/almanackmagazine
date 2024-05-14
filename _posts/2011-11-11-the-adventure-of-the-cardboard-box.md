@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: draft
 title: "The Adventure of the Cardboard Box"
 author: "Arthur Conan Doyle"
 categories: literature
